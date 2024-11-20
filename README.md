@@ -9,7 +9,7 @@ Um projeto inspirado no clássico jogo arcade Frogger, onde o objetivo principal
 
 ## 🚀 Características do Projeto
 
-- **Plataforma**: Desenvolvido na Unity 6
+- **Plataforma**: Desenvolvido na Unity 6 `versão 6000.0.23f1`
 - **Linguagem**: C#
 
 ---
@@ -37,4 +37,4 @@ Um projeto inspirado no clássico jogo arcade Frogger, onde o objetivo principal
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/felipysantos/frogger.git
