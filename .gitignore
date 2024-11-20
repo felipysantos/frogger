@@ -1,0 +1,75 @@
+# Geral
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Logs da Unity
+*.log
+
+# Cache de texturas
+[Dd]ebugLogs/
+[Mm]emoryCaptures/
+
+# Metadados do MonoDevelop/Visual Studio
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.sln.met
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais do editor Unity
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.sln.met
+
+# Dados de cache do Unity
+/Assets/Plugins/**/*.meta
+/Assets/Plugins/**/.*.meta
+/Assets/StreamingAssets/**/.meta
+
+# Configurações específicas da máquina
+*.tmproj
+*.booproj
+
+# Arquivos de build locais
+*.apk
+*.aab
+*.exe
+*.app
+*.jar
+*.unitypackage
+
+# Outros arquivos desnecessários
+*.swp
+*.temp
+*.bak
+*.sav
+*.asset
+*.prefs
+
+# Configurações de backup da Unity
+*.bak
+*.old
+*.backup
+*.tmp
+*.~*
+
+# Cache de pacotes
+/Packages/com.unity.package-manager-doctor
+/Packages/com.unity.modules.*
+
+# Configuração específica de cache local da Unity
+/Library/ShaderCache.db
