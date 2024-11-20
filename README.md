@@ -1,5 +1,7 @@
 # Frogger
 
+![Frogger Gif](./Assets/Demo/frog.gif)
+
 **Descrição**  
 Um projeto inspirado no clássico jogo arcade Frogger, onde o objetivo principal é ajudar o Froguinho a atravessar estradas movimentadas e perigosas para chegar ao outro lado do mapa em segurança. 
 
